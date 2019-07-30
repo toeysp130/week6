@@ -38,6 +38,5 @@ int main()
  }
  
  }while (Menu != 'Q');{cout << "Exit Program..." << endl;}
- //if (Menu == Q); {cout << "Exit Program..." << endl;}
  return(0);
 }
